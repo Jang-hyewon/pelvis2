@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"0.8.6","packageVersion":"0.8.6","packageName":"@teachablemachine/pose","timeStamp":"2020-07-04T09:46:57.572Z","userMetadata":{},"modelName":"my-pose-model","labels":["레터럴플렉션.차렷","레터럴플렉션.왼","레터럴플렉션.오","레터럴플렉션.(wrong)상체 틀어짐"],"modelSettings":{"posenet":{"architecture":"MobileNetV1","outputStride":16,"inputResolution":257,"multiplier":0.75}}}
